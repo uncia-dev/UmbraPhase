@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmldb>
+	<Faction>
+		<id>solar</id>
+		<factionIdx>1</factionIdx>
+		<name>Solar Spacing Consortium</name>
+		<description></description>
+		<reputations>
+			<reputation>-1</reputation>
+			<reputation>-1</reputation>
+			<reputation>25</reputation>
+			<reputation>75</reputation>
+			<reputation>25</reputation>
+			<reputation>50</reputation>
+			<reputation>50</reputation>
+		</reputations>
+		<currency>Solar Credit</currency>
+		<color>
+			<channel>0.26</channel>
+			<channel>0.44</channel>
+			<channel>0.76</channel>
+		</color>
+		<icon></icon>
+	</Faction>
+	<Faction>
+		<id>idolonian</id>
+		<factionIdx>2</factionIdx>
+		<name>Idolonian Dusk Legion</name>
+		<description></description>
+		<reputations>
+			<reputation>-1</reputation>
+			<reputation>25</reputation>
+			<reputation>-1</reputation>
+			<reputation>0</reputation>
+			<reputation>75</reputation>
+			<reputation>25</reputation>
+			<reputation>25</reputation>
+		</reputations>
+		<currency>Idolonian Kron</currency>
+		<color>
+			<channel>0.66</channel>
+			<channel>0.66</channel>
+			<channel>0.66</channel>
+		</color>
+		<icon></icon>
+	</Faction>
+	<Faction>
+		<id>volucrium</id>
+		<factionIdx>3</factionIdx>
+		<name>Volucrium Mercantiles</name>
+		<description></description>
+		<reputations>
+			<reputation>-1</reputation>
+			<reputation>75</reputation>
+			<reputation>25</reputation>
+			<reputation>-1</reputation>
+			<reputation>25</reputation>
+			<reputation>50</reputation>
+			<reputation>75</reputation>
+		</reputations>
+		<currency>Volucrium Pecunia</currency>
+		<color>
+			<channel>0.44</channel>
+			<channel>0.68</channel>
+			<channel>0.28</channel>
+		</color>
+		<icon></icon>
+	</Faction>
+	<Faction>
+		<id>vidurcine</id>
+		<factionIdx>4</factionIdx>
+		<name>Vidurcine Peacekeepers</name>
+		<description></description>
+		<reputations>
+			<reputation>-1</reputation>
+			<reputation>25</reputation>
+			<reputation>75</reputation>
+			<reputation>25</reputation>
+			<reputation>-1</reputation>
+			<reputation>50</reputation>
+			<reputation>50</reputation>
+		</reputations>
+		<currency>Vidurcine Varv</currency>
+		<color>
+			<channel>0.75</channel>
+			<channel>0.0</channel>
+			<channel>0.0</channel>
+		</color>
+		<icon></icon>
+	</Faction>
+	<Faction>
+		<id>akkedis</id>
+		<factionIdx>5</factionIdx>
+		<name>Akkedis Conglomerate</name>
+		<description></description>
+		<reputations>
+			<reputation>-1</reputation>
+			<reputation>50</reputation>
+			<reputation>25</reputation>
+			<reputation>50</reputation>
+			<reputation>25</reputation>
+			<reputation>-1</reputation>
+			<reputation>25</reputation>
+		</reputations>
+		<currency>Akkedis Thaler</currency>
+		<color>
+			<channel>0.93</channel>
+			<channel>0.49</channel>
+			<channel>0.19</channel>
+		</color>
+		<icon></icon>
+	</Faction>
+	<Faction>
+		<id>aquilex</id>
+		<factionIdx>6</factionIdx>
+		<name>Aquilex Seekers</name>
+		<description></description>
+		<reputations>
+			<reputation>-1</reputation>
+			<reputation>50</reputation>
+			<reputation>25</reputation>
+			<reputation>75</reputation>
+			<reputation>25</reputation>
+			<reputation>25</reputation>
+			<reputation>-1</reputation>
+		</reputations>
+		<currency>Aquilex Arreio</currency>
+		<color>
+			<channel>0.59</channel>
+			<channel>0.18</channel>
+			<channel>1.0</channel>
+		</color>
+		<icon></icon>
+	</Faction>
+</xmldb>

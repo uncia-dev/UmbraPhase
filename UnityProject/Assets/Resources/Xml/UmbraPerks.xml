@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmldb>
+	<Perk>
+		<id>Armorer</id>
+		<name>Armorer</name>
+		<description>Reduces the battlegroup's taken damage by 10%</description>
+		<isEnabled>false</isEnabled>
+		<icon>ArmorerPerk</icon>
+	</Perk>
+	<Perk>
+		<id>Marksmanship</id>
+		<name>Marksmanship</name>
+		<description>Increases the battlegroup's damage output by 10%</description>
+		<isEnabled>false</isEnabled>
+		<icon>MarksmanPerk</icon>
+	</Perk>
+	<Perk>
+		<id>Diplomacy</id>
+		<name>Diplomacy</name>
+		<description>Increases change of success during negotiations by 10%</description>
+		<isEnabled>false</isEnabled>
+		<icon>DiplomacyPerk</icon>
+	</Perk>
+	<Perk>
+		<id>Haggler</id>
+		<name>Haggler</name>
+		<description>Reduces cost of purchased items and units by 10%. Affects recruitment costs as well.</description>
+		<isEnabled>false</isEnabled>
+		<icon>HagglerPerk</icon>
+	</Perk>
+	<Perk>
+		<id>FirstAid</id>
+		<name>First Aid</name>
+		<description>Increases effectiveness of healing and repair abilities by 10%</description>
+		<isEnabled>false</isEnabled>
+		<icon>FirstAidPerk</icon>
+	</Perk>
+	<Perk>
+		<id>Leadership</id>
+		<name>Leadership</name>
+		<description>Boosts morale of the battlegroup by 10%</description>
+		<isEnabled>false</isEnabled>
+		<icon>LeadershipPerk</icon>
+	</Perk>
+	<Perk>
+		<id>Pathfinder</id>
+		<name>Pathfinder</name>
+		<description>Increases unit travel distance by 10%</description>
+		<isEnabled>false</isEnabled>
+		<icon>PathfinderPerk</icon>
+	</Perk>
+	<Perk>
+		<id>Scavenger</id>
+		<name>Scavenger</name>
+		<description>Increases resource gains when picking up items or winning battles by 10%</description>
+		<isEnabled>false</isEnabled>
+		<icon>ScavengerPerk</icon>
+	</Perk>
+</xmldb>

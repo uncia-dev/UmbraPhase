@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Starmap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <star id="0">
+    <pos x="0" y="0" z="0" />
+  </star>
+  <planet id="0">
+    <name>Planet00</name>
+    <description>planet is unknown</description>
+    <map>defaultMap</map>
+    <sprite>default</sprite>
+    <pos x="0" y="25" z="0" />
+  </planet>
+  <planet id="1">
+    <name>Planet01</name>
+    <description>No description</description>
+    <map>defaultMap</map>
+    <sprite>default</sprite>
+    <pos x="50" y="25" z="0" />
+  </planet>
+</Starmap>

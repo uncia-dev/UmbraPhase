@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmldb>
+	<Rank>
+		<id>GenericRank</id>
+		<name>Crewman</name>
+		<description>Can control 0 units</description>
+		<requiredLevel>0</requiredLevel>
+		<unitCap>0</unitCap>
+		<nextRankID></nextRankID>
+		<icon></icon>
+	</Rank>
+	<Rank>
+		<id>Merc</id>
+		<name>Mercenary</name>
+		<description>Can control up to 8 units
+Reserved to mercenary type characters</description>
+		<requiredLevel>0</requiredLevel>
+		<unitCap>8</unitCap>
+		<nextRankID></nextRankID>
+		<icon></icon>
+	</Rank>
+	<Rank>
+		<id>F1Rank1</id>
+		<name>Ensign</name>
+		<description>Unlocks Ability 1
+Unlocks Perk 1
+Can control 4 units</description>
+		<requiredLevel>1</requiredLevel>
+		<unitCap>4</unitCap>
+		<nextRankID>F1Rank2</nextRankID>
+		<icon></icon>
+	</Rank>
+	<Rank>
+		<id>F1Rank2</id>
+		<name>Sub-lieutenant</name>
+		<description>Unlocks Ability 2
+Can control 5 units</description>
+		<requiredLevel>2</requiredLevel>
+		<unitCap>5</unitCap>
+		<nextRankID>F1Rank3</nextRankID>
+		<icon></icon>
+	</Rank>
+	<Rank>
+		<id>F1Rank3</id>
+		<name>Lieutenant</name>
+		<description>Unlocks Ability 3
+Can control 6 units</description>
+		<requiredLevel>3</requiredLevel>
+		<unitCap>6</unitCap>
+		<nextRankID>F1Rank4</nextRankID>
+		<icon></icon>
+	</Rank>
+	<Rank>
+		<id>F1Rank4</id>
+		<name>Lieutenant Commander</name>
+		<description>Unlocks Perk 2
+Can control 7 units</description>
+		<requiredLevel>4</requiredLevel>
+		<unitCap>7</unitCap>
+		<nextRankID>F1Rank5</nextRankID>
+		<icon></icon>
+	</Rank>
+	<Rank>
+		<id>F1Rank5</id>
+		<name>Commander</name>
+		<description>Unlocks Ability 4
+Can control 8 units</description>
+		<requiredLevel>5</requiredLevel>
+		<unitCap>8</unitCap>
+		<nextRankID></nextRankID>
+		<icon></icon>
+	</Rank>
+	<Rank>
+		<id>F1Rank6</id>
+		<name>Captain</name>
+		<description>Unlocks Ability 1
+Unlocks Ability 2
+Unlocks Perk 1
+Can control 6 units</description>
+		<requiredLevel>1</requiredLevel>
+		<unitCap>6</unitCap>
+		<nextRankID>F1Rank7</nextRankID>
+		<icon></icon>
+	</Rank>
+	<Rank>
+		<id>F1Rank7</id>
+		<name>Commodore</name>
+		<description>Unlocks Ability 3
+Can control 6 units</description>
+		<requiredLevel>2</requiredLevel>
+		<unitCap>6</unitCap>
+		<nextRankID>F1Rank8</nextRankID>
+		<icon></icon>
+	</Rank>
+	<Rank>
+		<id>F1Rank8</id>
+		<name>Rear Admiral</name>
+		<description>Unlocks Perk 2
+Can control 7 units</description>
+		<requiredLevel>3</requiredLevel>
+		<unitCap>6</unitCap>
+		<nextRankID>F1Rank9</nextRankID>
+		<icon></icon>
+	</Rank>
+	<Rank>
+		<id>F1Rank9</id>
+		<name>Vice Admiral</name>
+		<description>Unlocks Ability 4
+Can control 8 units</description>
+		<requiredLevel>4</requiredLevel>
+		<unitCap>8</unitCap>
+		<nextRankID>F1Rank10</nextRankID>
+		<icon></icon>
+	</Rank>
+	<Rank>
+		<id>F1Rank10</id>
+		<name>Admiral</name>
+		<description>Unlocks Ability 5
+Unlocks Perk 5
+Can control 8 units</description>
+		<requiredLevel>5</requiredLevel>
+		<unitCap>8</unitCap>
+		<nextRankID></nextRankID>
+		<icon></icon>
+	</Rank>
+</xmldb>

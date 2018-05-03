@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmldb>
+	<Item>
+		<id>IonPainter</id>
+		<name>ION Painter</name>
+		<description>Calls an ION Cannon strike</description>
+		<abilityID>F3_IonCannon</abilityID>
+		<buffID></buffID>
+		<charges>100</charges>
+		<isUsable>true</isUsable>
+		<isSellable>true</isSellable>
+		<isPurchasable>true</isPurchasable>
+		<isDroppable>true</isDroppable>
+		<costMinerals>0</costMinerals>
+		<costGas>0</costGas>
+		<costFuel>0</costFuel>
+		<costWater>0</costWater>
+		<costFood>0</costFood>
+		<costMeds>0</costMeds>
+		<costPeople>0</costPeople>
+		<costFaction1>0</costFaction1>
+		<costFaction2>0</costFaction2>
+		<costFaction3>0</costFaction3>
+		<costFaction4>0</costFaction4>
+		<costFaction5>0</costFaction5>
+		<costFaction6>0</costFaction6>
+		<icon>item_IonPainter</icon>
+		<sprite>item_IonPainter</sprite>
+	</Item>
+	<Item>
+		<id>MassHealSystem</id>
+		<name>Mass Heal System</name>
+		<description>Heals all nearby units</description>
+		<abilityID>F1_MassHeal</abilityID>
+		<buffID></buffID>
+		<charges>0</charges>
+		<isUsable>true</isUsable>
+		<isSellable>true</isSellable>
+		<isPurchasable>true</isPurchasable>
+		<isDroppable>true</isDroppable>
+		<costMinerals>0</costMinerals>
+		<costGas>0</costGas>
+		<costFuel>0</costFuel>
+		<costWater>0</costWater>
+		<costFood>0</costFood>
+		<costMeds>0</costMeds>
+		<costPeople>0</costPeople>
+		<costFaction1>0</costFaction1>
+		<costFaction2>0</costFaction2>
+		<costFaction3>0</costFaction3>
+		<costFaction4>0</costFaction4>
+		<costFaction5>0</costFaction5>
+		<costFaction6>0</costFaction6>
+		<icon>item_MassHealSystem</icon>
+		<sprite>item_MassHealSystem</sprite>
+	</Item>
+	<Item>
+		<id>EMPGenerator</id>
+		<name>EMP Generator</name>
+		<description>Decloaks and unshields enemies</description>
+		<abilityID>F1_EMP</abilityID>
+		<buffID></buffID>
+		<charges>0</charges>
+		<isUsable>true</isUsable>
+		<isSellable>true</isSellable>
+		<isPurchasable>true</isPurchasable>
+		<isDroppable>true</isDroppable>
+		<costMinerals>0</costMinerals>
+		<costGas>0</costGas>
+		<costFuel>0</costFuel>
+		<costWater>0</costWater>
+		<costFood>0</costFood>
+		<costMeds>0</costMeds>
+		<costPeople>0</costPeople>
+		<costFaction1>0</costFaction1>
+		<costFaction2>0</costFaction2>
+		<costFaction3>0</costFaction3>
+		<costFaction4>0</costFaction4>
+		<costFaction5>0</costFaction5>
+		<costFaction6>0</costFaction6>
+		<icon>item_EMPGenerator</icon>
+		<sprite>item_EMPGenerator</sprite>
+	</Item>
+	<Item>
+		<id>NukePainter</id>
+		<name>Nuke Painter</name>
+		<description>Calls a nuke strike</description>
+		<abilityID>F1_Nuke</abilityID>
+		<buffID></buffID>
+		<charges>0</charges>
+		<isUsable>true</isUsable>
+		<isSellable>true</isSellable>
+		<isPurchasable>true</isPurchasable>
+		<isDroppable>true</isDroppable>
+		<costMinerals>0</costMinerals>
+		<costGas>0</costGas>
+		<costFuel>0</costFuel>
+		<costWater>0</costWater>
+		<costFood>0</costFood>
+		<costMeds>0</costMeds>
+		<costPeople>0</costPeople>
+		<costFaction1>0</costFaction1>
+		<costFaction2>0</costFaction2>
+		<costFaction3>0</costFaction3>
+		<costFaction4>0</costFaction4>
+		<costFaction5>0</costFaction5>
+		<costFaction6>0</costFaction6>
+		<icon>item_NukePainter</icon>
+		<sprite>item_NukePainter</sprite>
+	</Item>
+	<Item>
+		<id>HealKit</id>
+		<name>Healing Kit</name>
+		<description>Heals target and repairs its armor</description>
+		<abilityID>BaseHeal</abilityID>
+		<buffID></buffID>
+		<charges>0</charges>
+		<isUsable>true</isUsable>
+		<isSellable>true</isSellable>
+		<isPurchasable>true</isPurchasable>
+		<isDroppable>true</isDroppable>
+		<costMinerals>0</costMinerals>
+		<costGas>0</costGas>
+		<costFuel>0</costFuel>
+		<costWater>0</costWater>
+		<costFood>0</costFood>
+		<costMeds>0</costMeds>
+		<costPeople>0</costPeople>
+		<costFaction1>0</costFaction1>
+		<costFaction2>0</costFaction2>
+		<costFaction3>0</costFaction3>
+		<costFaction4>0</costFaction4>
+		<costFaction5>0</costFaction5>
+		<costFaction6>0</costFaction6>
+		<icon>item_HealKit</icon>
+		<sprite>item_HealKit</sprite>
+	</Item>
+	<Item>
+		<id>CloakDevice</id>
+		<name>Cloaking Device</name>
+		<description>Cloaks unit</description>
+		<abilityID>Cloak</abilityID>
+		<buffID></buffID>
+		<charges>0</charges>
+		<isUsable>true</isUsable>
+		<isSellable>true</isSellable>
+		<isPurchasable>true</isPurchasable>
+		<isDroppable>true</isDroppable>
+		<costMinerals>0</costMinerals>
+		<costGas>0</costGas>
+		<costFuel>0</costFuel>
+		<costWater>0</costWater>
+		<costFood>0</costFood>
+		<costMeds>0</costMeds>
+		<costPeople>0</costPeople>
+		<costFaction1>0</costFaction1>
+		<costFaction2>0</costFaction2>
+		<costFaction3>0</costFaction3>
+		<costFaction4>0</costFaction4>
+		<costFaction5>0</costFaction5>
+		<costFaction6>0</costFaction6>
+		<icon>item_CloakDevice</icon>
+		<sprite>item_CloakDevice</sprite>
+	</Item>
+</xmldb>
